@@ -3,7 +3,7 @@
 **Electric bus charging scheduler for fixed routes, built with Python + Streamlit.**
 
 Live demo: `https://<your-streamlit-cloud-url>`  
-GitHub: `https://github.com/<your-username>/bus-charging-scheduler`
+GitHub: `https://github.com/Mdsehran/electric-bus-charging-scheduler`
 
 ---
 
@@ -11,7 +11,7 @@ GitHub: `https://github.com/<your-username>/bus-charging-scheduler`
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/bus-charging-scheduler.git
+git clone https://github.com/Mdsehran/electric-bus-charging-scheduler.git
 cd bus-charging-scheduler
 
 # 2. Install dependencies
